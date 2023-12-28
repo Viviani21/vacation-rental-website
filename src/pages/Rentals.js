@@ -1,7 +1,7 @@
 import React, { useEffect, useState} from 'react'
 import NavBar from '../components/NavBar'
 import Footer from '../components/Footer'
-import HeroImg from '../components/HeroImg'
+import UncontrolledCarousel from '../components/UncontrolledCarousel'
 import axios from 'axios';
 import {useNavigate} from 'react-router-dom';
 
@@ -34,7 +34,7 @@ const Rentals = () => {
   return (
     <div>
         <NavBar/>
-        <HeroImg/>
+        <UncontrolledCarousel/>
         <div className='rentals'>
         <h2>Rentals List</h2>
         <div className='row'>

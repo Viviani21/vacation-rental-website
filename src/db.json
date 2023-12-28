@@ -1,13 +1,13 @@
 {
     "rentals":[
         {"id" : 1,
-         "image" : "/assets/frames-for-your-heart-2d4lAQAlbDA-unsplash.jpg",
+         "image" : "../assets/frames-for-your-heart-2d4lAQAlbDA-unsplash.jpg",
          "title" : "Athen",
          "description" : "Greace"
         },
 
          {"id" : 2,
-         "image" : "./assets/gene-giromini-5NhTtAK6NI0-unsplash.jpg",
+         "image" : "../assets/gene-giromini-5NhTtAK6NI0-unsplash.jpg",
          "title" : "Sofia",
          "description" : "Bulgaria"
         },

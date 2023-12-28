@@ -1,25 +1,4 @@
-/* .App {
-  text-align: center;
-}
-body{
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "segoe UI",'Roboto', 'Oxygen','Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
 
-code{
-  font-size: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
-}
- */
-/* @keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-} */
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 *{
@@ -30,37 +9,37 @@ code{
 }
 
 body{
-  background-color: #000;
+  background-color: #000 !important;
 }
 
 h1, h4,h3,h2, p, a {
-  color: #fff;
-  text-decoration: none;
+  color: #fff !important;
+  text-decoration: none !important;
 }
 
 ul{
   list-style-type: none;
 }
 .btn{
-  padding: 12px 32px;
-  font-size: 1rem;
+  padding: 12px 32px !important;
+  font-size: 1rem !important;
   text-transform: uppercase;
-  background: rgb(248,217,15);
-  color:#222;
-  border:1px solid #fff;
+  background: rgb(248,217,15) !important;
+  color:#222 !important;
+  border:1px solid #fff !important;
   font-weight: 600;
   cursor:pointer;
 }
 
 .btn-light{
-  background: transparent;
+  background: transparent !important;
   color:#fff;
 
 }
 
 .btn:hover {
-  background: rgba(255,255,255,0.2);
-  color:#fff;
+  background: rgba(255,255,255,0.2) !important;
+  color:#fff !important;
   transition: 0.3s;
   
 }
