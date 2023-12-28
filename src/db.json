@@ -1,0 +1,21 @@
+{
+    "rentals":[
+        {"id" : 1,
+         "image" : "/assets/frames-for-your-heart-2d4lAQAlbDA-unsplash.jpg",
+         "title" : "Athen",
+         "description" : "Greace"
+        },
+
+         {"id" : 2,
+         "image" : "./assets/gene-giromini-5NhTtAK6NI0-unsplash.jpg",
+         "title" : "Sofia",
+         "description" : "Bulgaria"
+        },
+
+         {"id" : 3,
+         "image" : "../assets/kilarov-zaneit-aXq37rUfotU-unsplash.jpg",
+         "title" : "Hamburg",
+         "description" : "Germany"
+        }
+    ]
+}
