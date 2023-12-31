@@ -1,5 +1,5 @@
 import React from 'react'
-import './HeroImg.css';
+import './HeroImgStyles.css';
 import IntroImg from "../assets/alexandre-chambon-aapSemzfsOk-unsplash.jpg"
 import {Link} from 'react-router-dom';
 

@@ -1,5 +1,5 @@
 import React from 'react';
-import './HeroImg2.css';
+import './HeroImg2Styles.css';
 import IntroImg2 from "../assets/tanner-van-dera-oaQ2mTeaP7o-unsplash.jpg"
 
 const HeroImg2 = () => {

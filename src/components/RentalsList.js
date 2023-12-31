@@ -1,4 +1,5 @@
 import React, {useState, useEffect} from 'react'
+import './RentalsListStyles.css'
 import axios from 'axios';
 import {useNavigate, useParams} from 'react-router-dom';
 

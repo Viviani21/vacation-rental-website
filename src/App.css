@@ -44,20 +44,4 @@ ul{
   
 }
 
-.btn-rentals:hover{
-  background: rgba(19,19,19,0.8)!important;
-  color:#fff !important;
-  transition: 0.3s;
-}
 
-.rentals p {
-  color: #000 !important;
-}
-
-.rentals {
- padding: 30px;
-}
-.rentals h2 {
-  padding:10px 0 40px;
-  text-align: center;
-}
