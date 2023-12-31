@@ -5,7 +5,7 @@ import ExampleCarouselImage from '../components/ExampleCarouselImage';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import FirstImg from '../assets/frames-for-your-heart-2d4lAQAlbDA-unsplash.jpg'
 import SecondImg from '../assets/gene-giromini-5NhTtAK6NI0-unsplash.jpg'
-import ThurdImg from '../assets/kilarov-zaneit-aXq37rUfotU-unsplash.jpg'
+import ThirdImg from '../assets/kilarov-zaneit-aXq37rUfotU-unsplash.jpg'
 
 const UncontrolledCarousel = () => {
   
@@ -26,7 +26,7 @@ const UncontrolledCarousel = () => {
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
-          <ExampleCarouselImage imgUrl={ThurdImg} text="Third slide" />
+          <ExampleCarouselImage imgUrl={ThirdImg} text="Third slide" />
           <Carousel.Caption>
             <h3>Italy</h3>
             <p>

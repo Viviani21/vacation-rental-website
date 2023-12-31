@@ -1,13 +1,18 @@
 import React from 'react'
 import NavBar from '../components/NavBar'
 import Footer from '../components/Footer'
+import FormBooking from '../components/FormBooking'
+
+
 
 const BookingForm = () => {
+
   return (
     <div>
         <NavBar/>
-        <h1>BookingForm</h1>
+        <FormBooking />
         <Footer/>
+        
     </div>
   )
 }

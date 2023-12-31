@@ -7,9 +7,9 @@ import HeroImg from '../components/HeroImg'
 const Home = () => {
   return (
     <div>
-    <NavBar/>
-    <HeroImg/>
-    <Footer/>
+      <NavBar/>
+      <HeroImg/>
+      <Footer/>
     </div>
   )
 }
